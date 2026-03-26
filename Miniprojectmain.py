@@ -1,6 +1,4 @@
-#MAY_SHIN_THANT
-#4488OLRZ(23029352)
-#TIC_TAC_TOE(MINI-PROJECT)
+#TIC_TAC_TOE(MINI-PROJET)
 import pygame
 import sys
 import random
